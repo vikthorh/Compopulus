@@ -5,9 +5,10 @@
 
 ## 👇👇👇 Image videogame 👇👇👇
 
-<img width="1920" height="1080" alt="Captura de pantalla de 2025-11-11 01-30-13" src="https://github.com/user-attachments/assets/fe26aa8e-33cf-44c3-b24b-8b513e25626e" />
 
-<img width="1920" height="1080" alt="Captura de pantalla de 2025-11-08 16-39-49" src="https://github.com/user-attachments/assets/e66d9704-0e8d-45c7-850e-3f7c77d6d9f6" />
+<img width="1920" height="1080" alt="Captura de pantalla de 2025-11-24 07-57-19" src="https://github.com/user-attachments/assets/33e61f17-c517-4892-a810-b8a4e1255fb2" />
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2025-11-24 07-57-30" src="https://github.com/user-attachments/assets/9405a11d-2563-4180-9e20-7c5afb3ce2d6" />
 
+<img width="1920" height="1080" alt="Captura de pantalla de 2025-11-24 07-57-38" src="https://github.com/user-attachments/assets/cf1547f5-b2fe-4ce6-a779-4077585a782b" />
 
